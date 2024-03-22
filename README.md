@@ -1,5 +1,5 @@
 - 👋 Welcome to @SolnicCoin, The Solana Hedgehog
-#Official Links
+- Official Links
 - Website - http://SolnicCoin.io
 - 𝕏 - https://x.com/SolnicCoin
 - Telegram - https://t.me/SolnicCoin
