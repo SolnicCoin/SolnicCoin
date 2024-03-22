@@ -2,7 +2,7 @@
 - Official Links
   Website - http://SolnicCoin.io
   𝕏 - https://x.com/SolnicCoin
-  Telegram - https://t.me/+JveTq371yXoyMjFh
+  Telegram - https://t.me/SolnicCoin
   CoinMarketCap - https://coinmarketcap.com/currencies/solnic/
 <!---
 SolnicCoin/SolnicCoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
